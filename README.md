@@ -10,6 +10,13 @@
 * [remix](https://remix.ethereum.org/)  浏览器在线编辑器
 
 ## 入门学习
+* [以太坊智能合约开发第一篇：IDE对solidity语法的支持](https://www.marser.cn/article/135.html)
+* [以太坊智能合约开发第二篇：理解以太坊相关概念](https://www.marser.cn/article/136.html)
+* [以太坊智能合约开发第三篇：安装节点工具Ganache](https://www.marser.cn/article/138.html)
+* [以太坊智能合约开发第四篇：实现Hello World智能合约](https://www.marser.cn/article/139.html)
+* [以太坊智能合约开发第五篇：字符串拼接—Solidity](https://www.marser.cn/article/140.html)
+* [以太坊智能合约开发第六篇：truffle开发框架](https://www.marser.cn/article/141.html)
+* [以太坊智能合约开发第七篇：智能合约与网页交互](https://www.marser.cn/article/142.html)
 
 ## 最佳实践
 * [以太坊智能合约 —— 最佳安全开发指南](https://github.com/ConsenSys/smart-contract-best-practices/blob/master/README-zh.md)  以太坊智能合约开发指南
