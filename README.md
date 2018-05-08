@@ -29,11 +29,16 @@
 * [Solidity官方文档中文版](https://github.com/KevinJay/awesome-smart-contract/blob/master/documents/Solidity%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3%E4%B8%AD%E6%96%87%E7%89%88.pdf)
 * [geth使用指南中文版](https://github.com/KevinJay/awesome-smart-contract/blob/master/documents/geth%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97%E6%96%87%E6%A1%A3%E4%B8%AD%E6%96%87%E7%89%88.pdf)
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 ### Solidity Libraries （有时间的可以翻译下）
 =======
 #### Solidity Libraries （有时间的可以翻译下）
 >>>>>>> fd4aa27... copied document from https://raw.githubusercontent.com/transmute-industries/awesome-smart-contracts/master/README.md
+=======
+
+## Solidity Libraries （有时间的可以翻译下）
+>>>>>>> b87ba7a... re init from default branch
 * [Oraclize-Tutorial](https://github.com/johnhckuo/Oraclize-Tutorial)
 * [docker-eth-dev](https://github.com/gnidan/docker-eth-dev) - docker ethereum dev env
 * [dapp-proof-of-identity](https://github.com/oraclize/dapp-proof-of-identity)
@@ -79,6 +84,7 @@
 * [slockit/DAO](https://github.com/slockit/DAO) - The Standard DAO Framework, inc. Whitepaper.
 
 ## Utilities
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 =======
@@ -88,6 +94,9 @@
 * [Solidity Browser](https://ethereum.github.io/browser-solidity/) - Solidity realtime compiler and runtime.
 
 >>>>>>> fd4aa27... copied document from https://raw.githubusercontent.com/transmute-industries/awesome-smart-contracts/master/README.md
+=======
+ 
+>>>>>>> b87ba7a... re init from default branch
 #### REPL
 
 * [raineorshine/solidity-repl](https://github.com/raineorshine/solidity-repl) - Ethereum Solidity REPL.
@@ -111,7 +120,8 @@
 
 * [raineorshine/solgraph](https://github.com/raineorshine/solgraph) - Visualize Solidity control flow for smart contract security analysis.
 
-## License (此文部分Copy自https://raw.githubusercontent.com/transmute-industries/awesome-smart-contracts/master/README.md)
+## License 
+* (此文部分Copy自https://raw.githubusercontent.com/transmute-industries/awesome-smart-contracts/master/README.md)
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
