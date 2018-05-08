@@ -1,22 +1,27 @@
 # Awesome Smart Contract
 > 收集所有智能合约(smart contract)技术的相关资料
 
+## 开发工具
+* [在线的浏览器编辑器](https://remix.ethereum.org/)
+* [dominicwilliams/instant-dapp-ide](https://github.com/dominicwilliams/instant-dapp-ide) - Complete Dapp and Solidity development environment as docker image you can run from command line.
+* [Solidity Browser](https://ethereum.github.io/browser-solidity/) - Solidity realtime compiler and runtime.
+
+## 入门学习
+
 ## 最佳实践
 * [以太坊智能合约 —— 最佳安全开发指南](https://github.com/ConsenSys/smart-contract-best-practices/blob/master/README-zh.md)  以太坊智能合约开发指南
+
+## 代码解读
 * [以太猫(CryptoKitties)的智能合约代码分析](https://zhuanlan.zhihu.com/p/34194613)
 
-## 智能合约入门学习资料
-
-## 智能合约开发相关工具
-* [在线的浏览器编辑器 Remix](https://remix.ethereum.org/)
-
-## 智能合约安全资料
-* [以太坊智能合约 —— 最佳安全开发指南](https://zhuanlan.zhihu.com/p/29690785)
-
-## 智能合约开源项目
+## 开源项目
 * [完整实现的ERC20提案标准的发币代码](https://github.com/ConsenSys/Tokens)
 
-#### Solidity Libraries （有时间的可以翻译下）
+## 文档书籍
+* [Solidity官方文档中文版](https://github.com/KevinJay/awesome-smart-contract/blob/master/documents/Solidity%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3%E4%B8%AD%E6%96%87%E7%89%88.pdf)
+* [geth使用指南中文版](https://github.com/KevinJay/awesome-smart-contract/blob/master/documents/geth%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97%E6%96%87%E6%A1%A3%E4%B8%AD%E6%96%87%E7%89%88.pdf)
+
+### Solidity Libraries （有时间的可以翻译下）
 * [Oraclize-Tutorial](https://github.com/johnhckuo/Oraclize-Tutorial)
 * [docker-eth-dev](https://github.com/gnidan/docker-eth-dev) - docker ethereum dev env
 * [dapp-proof-of-identity](https://github.com/oraclize/dapp-proof-of-identity)
@@ -63,11 +68,6 @@
 
 ## Utilities
 
-#### IDE
-
-* [dominicwilliams/instant-dapp-ide](https://github.com/dominicwilliams/instant-dapp-ide) - Complete Dapp and Solidity development environment as docker image you can run from command line.
-* [Solidity Browser](https://ethereum.github.io/browser-solidity/) - Solidity realtime compiler and runtime.
-
 #### REPL
 
 * [raineorshine/solidity-repl](https://github.com/raineorshine/solidity-repl) - Ethereum Solidity REPL.
@@ -81,11 +81,8 @@
 * [duaraghav8/Solium](https://github.com/duaraghav8/Solium) - A customizable, stand-alone linter for Ethereum Solidity.
 
 #### Visualization
-
 * [raineorshine/solgraph](https://github.com/raineorshine/solgraph) - Visualize Solidity control flow for smart contract security analysis.
 
-## License (此文部分Copy自https://raw.githubusercontent.com/transmute-industries/awesome-smart-contracts/master/README.md)
-
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, the author of this page has waived all copyright and related or neighboring rights to this work.
+## License 
+* 此文部分Copy自(https://raw.githubusercontent.com/transmute-industries/awesome-smart-contracts/master/README.md)
+* 本项目仅作为资料收集只用 如有侵权 请与UP主联系
