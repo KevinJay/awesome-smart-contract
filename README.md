@@ -8,7 +8,7 @@
 ## 智能合约入门学习资料
 
 ## 智能合约开发相关工具
-* [在线的浏览器编辑器](https://remix.ethereum.org/)
+* [在线的浏览器编辑器 Remix](https://remix.ethereum.org/)
 
 ## 智能合约安全资料
 * [以太坊智能合约 —— 最佳安全开发指南](https://zhuanlan.zhihu.com/p/29690785)
