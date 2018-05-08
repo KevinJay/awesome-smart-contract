@@ -2,7 +2,7 @@
 > 收集所有智能合约(smart contract)技术的相关资料
 
 ## 开发工具
-* [remix-浏览器在线编辑器](https://remix.ethereum.org/)
+* [remix](https://remix.ethereum.org/)浏览器在线编辑器
 
 ## 入门学习
 
