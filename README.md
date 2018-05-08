@@ -9,7 +9,7 @@
 ## 入门学习
 
 ## 最佳实践
-* [以太坊智能合约 —— 最佳安全开发指南](https://github.com/ConsenSys/smart-contract-best-practices/blob/master/README-zh.md)  以太坊智能合约开发指南
+* [以太坊智能合约 - 最佳安全开发指南](https://github.com/ConsenSys/smart-contract-best-practices/blob/master/README-zh.md)  以太坊智能合约开发指南
 
 ## 代码解读
 * [以太猫(CryptoKitties)的智能合约代码分析](https://zhuanlan.zhihu.com/p/34194613)
@@ -28,17 +28,8 @@
 ## 文档书籍
 * [Solidity官方文档中文版](https://github.com/KevinJay/awesome-smart-contract/blob/master/documents/Solidity%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3%E4%B8%AD%E6%96%87%E7%89%88.pdf)
 * [geth使用指南中文版](https://github.com/KevinJay/awesome-smart-contract/blob/master/documents/geth%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97%E6%96%87%E6%A1%A3%E4%B8%AD%E6%96%87%E7%89%88.pdf)
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-### Solidity Libraries （有时间的可以翻译下）
-=======
-#### Solidity Libraries （有时间的可以翻译下）
->>>>>>> fd4aa27... copied document from https://raw.githubusercontent.com/transmute-industries/awesome-smart-contracts/master/README.md
-=======
-
+ 
 ## Solidity Libraries （有时间的可以翻译下）
->>>>>>> b87ba7a... re init from default branch
 * [Oraclize-Tutorial](https://github.com/johnhckuo/Oraclize-Tutorial)
 * [docker-eth-dev](https://github.com/gnidan/docker-eth-dev) - docker ethereum dev env
 * [dapp-proof-of-identity](https://github.com/oraclize/dapp-proof-of-identity)
@@ -84,46 +75,21 @@
 * [slockit/DAO](https://github.com/slockit/DAO) - The Standard DAO Framework, inc. Whitepaper.
 
 ## Utilities
-<<<<<<< HEAD
 
-<<<<<<< HEAD
-=======
-#### IDE
 
-* [dominicwilliams/instant-dapp-ide](https://github.com/dominicwilliams/instant-dapp-ide) - Complete Dapp and Solidity development environment as docker image you can run from command line.
-* [Solidity Browser](https://ethereum.github.io/browser-solidity/) - Solidity realtime compiler and runtime.
-
->>>>>>> fd4aa27... copied document from https://raw.githubusercontent.com/transmute-industries/awesome-smart-contracts/master/README.md
-=======
  
->>>>>>> b87ba7a... re init from default branch
 #### REPL
-
 * [raineorshine/solidity-repl](https://github.com/raineorshine/solidity-repl) - Ethereum Solidity REPL.
 
 #### RPC
-
 * [nexusdev/seth](https://github.com/nexusdev/seth) - Perform Ethereum JSON-RPC calls from the comfort of your command line.
 
 #### Static Analysis
-
 * [duaraghav8/Solium](https://github.com/duaraghav8/Solium) - A customizable, stand-alone linter for Ethereum Solidity.
 
 #### Visualization
-<<<<<<< HEAD
 * [raineorshine/solgraph](https://github.com/raineorshine/solgraph) - Visualize Solidity control flow for smart contract security analysis.
 
 ## License 
 * 此文部分Copy自(https://raw.githubusercontent.com/transmute-industries/awesome-smart-contracts/master/README.md)
 * 本项目仅作为资料收集只用 如有侵权 请与UP主联系
-=======
-
-* [raineorshine/solgraph](https://github.com/raineorshine/solgraph) - Visualize Solidity control flow for smart contract security analysis.
-
-## License 
-* (此文部分Copy自https://raw.githubusercontent.com/transmute-industries/awesome-smart-contracts/master/README.md)
-
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, the author of this page has waived all copyright and related or neighboring rights to this work.
->>>>>>> fd4aa27... copied document from https://raw.githubusercontent.com/transmute-industries/awesome-smart-contracts/master/README.md
