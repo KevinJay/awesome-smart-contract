@@ -10,26 +10,18 @@
 
 ## 最佳实践
 * [以太坊智能合约 - 最佳安全开发指南](https://github.com/ConsenSys/smart-contract-best-practices/blob/master/README-zh.md)  以太坊智能合约开发指南
+* [ConsenSys/MultiSigWallet](https://github.com/ConsenSys/MultiSigWallet) - Allows multiple parties to agree on transactions before execution.
+* [ConsenSys/StandardBounties](https://github.com/ConsenSys/StandardBounties) - A set of standard contracts to be used as interfaces for any kind of bounty, either qualitative or quantitative in nature.
+* [ConsenSys/Tokens](https://github.com/ConsenSys/Tokens) - 完整实现的ERC20提案标准的发币代码
 
 ## 代码解读
 * [以太猫(CryptoKitties)的智能合约代码分析](https://zhuanlan.zhihu.com/p/34194613)
-
-## 智能合约入门学习资料
-
-## 智能合约开发相关工具
-* [在线的浏览器编辑器 Remix](https://remix.ethereum.org/)
-
-## 智能合约安全资料
-* [以太坊智能合约 —— 最佳安全开发指南](https://zhuanlan.zhihu.com/p/29690785)
-
-## 智能合约开源项目
-* [完整实现的ERC20提案标准的发币代码](https://github.com/ConsenSys/Tokens)
 
 ## 文档书籍
 * [Solidity官方文档中文版](https://github.com/KevinJay/awesome-smart-contract/blob/master/documents/Solidity%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3%E4%B8%AD%E6%96%87%E7%89%88.pdf)
 * [geth使用指南中文版](https://github.com/KevinJay/awesome-smart-contract/blob/master/documents/geth%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97%E6%96%87%E6%A1%A3%E4%B8%AD%E6%96%87%E7%89%88.pdf)
  
-## Solidity Libraries （有时间的可以翻译下）
+## Solidity Libraries - 有时间的可以翻译下
 * [Oraclize-Tutorial](https://github.com/johnhckuo/Oraclize-Tutorial)
 * [docker-eth-dev](https://github.com/gnidan/docker-eth-dev) - docker ethereum dev env
 * [dapp-proof-of-identity](https://github.com/oraclize/dapp-proof-of-identity)
@@ -56,9 +48,6 @@
 * [Slock.it](https://github.com/slockit/smart-contract) - DAO and Universal Sharing Network (USN) to rent, sell, and share objects on-demand without middlemen. [:page_facing_up:](https://download.slock.it/public/DAO/WhitePaper.pdf "White Paper")
 
 
-* [ConsenSys/MultiSigWallet](https://github.com/ConsenSys/MultiSigWallet) - Allows multiple parties to agree on transactions before execution.
-* [ConsenSys/StandardBounties](https://github.com/ConsenSys/StandardBounties) - A set of standard contracts to be used as interfaces for any kind of bounty, either qualitative or quantitative in nature.
-* [ConsenSys/Tokens](https://github.com/ConsenSys/Tokens) - Solidity smart contract code to issue simple, standards-compliant tokens on Ethereum. It can be used to create any form of asset, currency, coin, hours, usage tokens, vunk, etc.
 * [OpenZeppelin](https://github.com/OpenZeppelin/zeppelin-solidity) - A framework to build secure smart contracts on Ethereum. [:closed_lock_with_key:](https://github.com/OpenZeppelin/zeppelin-solidity/tree/master/audit "Security Audits")
 * [Solidity Standard Library](https://github.com/ethereum/solidity/tree/develop/std) - A proof-of-concept standard library that is included with Solidity itself.
 
